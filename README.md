@@ -1,3 +1,8 @@
+
+# Research and exploration of this paper for the purpose of understanding and the implementation of security of DNN models deployed on edge devices.
+# Finding ways to make the implementation better and finding the loop holes.
+# Testing this approach of this paper against other papers to test the potential of the security approach.
+
 # ModelObfuscator
 
 This is protptype tool of paper: **Modelobfuscator: Obfuscating Model Information to Protect Deployed ML-Based Systems on ISSTA2023**.
